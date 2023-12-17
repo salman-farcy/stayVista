@@ -12,7 +12,8 @@ const Home = () => {
       <title>StayVista | Home</title>
       </Helmet>
 
-      {/* Categories Section */}
+      {/* Categories Section is hear*/}
+      
       <Categories />
 
       {/* Rooms Section */}
